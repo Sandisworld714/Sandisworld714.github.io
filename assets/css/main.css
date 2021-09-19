@@ -226,6 +226,11 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 
+.center {
+	text-align: center;
+	list-syle-position: inside;
+}
+
 /* Container */
 
 	.container {
