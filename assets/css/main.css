@@ -289,28 +289,10 @@ input, select, textarea {
 				.container.medium {
 					width: 100%;
 				}
-
-		}
-
-		@media screen and (max-width: 600px) {
-
-			.container {
-				width: 100%;
-				max-width: calc(100% - 30px);
+			iframe {
+				display: none;
 			}
-
-				.container.medium {
-					width: 100%;
-				}
-
 		}
-
-/* @media screen and (max-width: 600px) {
-  div.example {
-    display: none;
-  }
-}
-*/
 
 /* Row */
 
