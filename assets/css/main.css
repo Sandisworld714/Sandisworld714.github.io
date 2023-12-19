@@ -292,6 +292,26 @@ input, select, textarea {
 
 		}
 
+		@media screen and (max-width: 600px) {
+
+			.container {
+				width: 100%;
+				max-width: calc(100% - 30px);
+			}
+
+				.container.medium {
+					width: 100%;
+				}
+
+		}
+
+/* @media screen and (max-width: 600px) {
+  div.example {
+    display: none;
+  }
+}
+*/
+
 /* Row */
 
 	.row {
